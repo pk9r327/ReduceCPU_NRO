@@ -1,0 +1,10 @@
+C:\Users\pk9r\source\repos\TabManagerNRO\TabManagerNRO\obj\Debug\TabManagerNRO.csprojAssemblyReference.cache
+C:\Users\pk9r\source\repos\TabManagerNRO\TabManagerNRO\obj\Debug\TabManagerNRO.Form1.resources
+C:\Users\pk9r\source\repos\TabManagerNRO\TabManagerNRO\obj\Debug\TabManagerNRO.Properties.Resources.resources
+C:\Users\pk9r\source\repos\TabManagerNRO\TabManagerNRO\obj\Debug\TabManagerNRO.csproj.GenerateResource.cache
+C:\Users\pk9r\source\repos\TabManagerNRO\TabManagerNRO\obj\Debug\TabManagerNRO.csproj.CoreCompileInputs.cache
+C:\Users\pk9r\source\repos\TabManagerNRO\TabManagerNRO\bin\Debug\TabManagerNRO.exe.config
+C:\Users\pk9r\source\repos\TabManagerNRO\TabManagerNRO\bin\Debug\TabManagerNRO.exe
+C:\Users\pk9r\source\repos\TabManagerNRO\TabManagerNRO\bin\Debug\TabManagerNRO.pdb
+C:\Users\pk9r\source\repos\TabManagerNRO\TabManagerNRO\obj\Debug\TabManagerNRO.exe
+C:\Users\pk9r\source\repos\TabManagerNRO\TabManagerNRO\obj\Debug\TabManagerNRO.pdb
