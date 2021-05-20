@@ -1,0 +1,10 @@
+C:\Users\pk9r\source\repos\ReduceCPU_NRO\ReduceCPU_NRO\bin\Release\TabManagerNRO.exe.config
+C:\Users\pk9r\source\repos\ReduceCPU_NRO\ReduceCPU_NRO\bin\Release\TabManagerNRO.exe
+C:\Users\pk9r\source\repos\ReduceCPU_NRO\ReduceCPU_NRO\bin\Release\TabManagerNRO.pdb
+C:\Users\pk9r\source\repos\ReduceCPU_NRO\ReduceCPU_NRO\obj\Release\ReduceCPU_NRO.csprojAssemblyReference.cache
+C:\Users\pk9r\source\repos\ReduceCPU_NRO\ReduceCPU_NRO\obj\Release\ReduceCPU_NRO.Form1.resources
+C:\Users\pk9r\source\repos\ReduceCPU_NRO\ReduceCPU_NRO\obj\Release\TabManagerNRO.Properties.Resources.resources
+C:\Users\pk9r\source\repos\ReduceCPU_NRO\ReduceCPU_NRO\obj\Release\ReduceCPU_NRO.csproj.GenerateResource.cache
+C:\Users\pk9r\source\repos\ReduceCPU_NRO\ReduceCPU_NRO\obj\Release\ReduceCPU_NRO.csproj.CoreCompileInputs.cache
+C:\Users\pk9r\source\repos\ReduceCPU_NRO\ReduceCPU_NRO\obj\Release\TabManagerNRO.exe
+C:\Users\pk9r\source\repos\ReduceCPU_NRO\ReduceCPU_NRO\obj\Release\TabManagerNRO.pdb

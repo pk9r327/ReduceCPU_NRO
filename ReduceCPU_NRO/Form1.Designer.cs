@@ -36,6 +36,7 @@ namespace ReduceCPU_NRO
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
             this.linkLabel2 = new System.Windows.Forms.LinkLabel();
+            this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // comboBox1
@@ -95,7 +96,7 @@ namespace ReduceCPU_NRO
             // linkLabel2
             // 
             this.linkLabel2.AutoSize = true;
-            this.linkLabel2.Location = new System.Drawing.Point(318, 9);
+            this.linkLabel2.Location = new System.Drawing.Point(572, 9);
             this.linkLabel2.Name = "linkLabel2";
             this.linkLabel2.Size = new System.Drawing.Size(27, 13);
             this.linkLabel2.TabIndex = 7;
@@ -103,11 +104,23 @@ namespace ReduceCPU_NRO
             this.linkLabel2.Text = "help";
             this.linkLabel2.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel2_LinkClicked);
             // 
+            // checkBox1
+            // 
+            this.checkBox1.AutoSize = true;
+            this.checkBox1.Location = new System.Drawing.Point(317, 5);
+            this.checkBox1.Name = "checkBox1";
+            this.checkBox1.Size = new System.Drawing.Size(186, 17);
+            this.checkBox1.TabIndex = 8;
+            this.checkBox1.Text = "Hiển thị cả chương trình chạy nền";
+            this.checkBox1.UseVisualStyleBackColor = true;
+            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1084, 711);
+            this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.linkLabel2);
             this.Controls.Add(this.progressBar1);
             this.Controls.Add(this.linkLabel1);
@@ -130,6 +143,7 @@ namespace ReduceCPU_NRO
         private System.Windows.Forms.LinkLabel linkLabel1;
         private System.Windows.Forms.ProgressBar progressBar1;
         private System.Windows.Forms.LinkLabel linkLabel2;
+        private System.Windows.Forms.CheckBox checkBox1;
     }
 }
 

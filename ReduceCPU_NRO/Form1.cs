@@ -39,7 +39,7 @@ namespace ReduceCPU_NRO
             var proc = Process.GetProcesses();
             for (int i = 0; i < proc.Length; i++)
             {
-                if (IsWindow(proc[i].MainWindowHandle))
+                if (checkBox1.Checked || IsWindow(proc[i].MainWindowHandle))
                 {
                     Processes.Add(proc[i]);
                     comboBox1.Items.Add(string.Format("{0} - {1} - {2}", proc[i].ProcessName, proc[i].MainWindowTitle, proc[i].Id));
@@ -79,7 +79,12 @@ namespace ReduceCPU_NRO
 
         private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
+            Process.Start("https://github.com/pk9rprotein/ReduceCPU_NRO/blob/main/README.md");
+        }
 
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            LoadProcesses();
         }
     }
 }
